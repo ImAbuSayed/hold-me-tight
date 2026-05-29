@@ -15,7 +15,7 @@
 | **Written On** | May 28, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/hold-me-tight/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Hold Me Tight](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/hold-me-tight/) |
+| **Get License** | [Get License For Hold Me Tight](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/hold-me-tight/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Shadows on the wall, catching every breath you take
+> There’s a quiet kind of magic in the moves we make
+> Pulling down the stars, leaving all the world behind
+> You’re the only destination that I want to find
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
