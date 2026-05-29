@@ -15,7 +15,7 @@
 | **Written On** | May 28, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/hold-me-tight/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Hold Me Tight](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/hold-me-tight/) |
+| **Get License** | [Secure Licensing Rights for Hold Me Tight](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/hold-me-tight/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `1191c722537cf57be31e1a8036d5f818189897b6bbfd530aff6ba65eabde5de3` |
 | **Timestamp** | May 29, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
